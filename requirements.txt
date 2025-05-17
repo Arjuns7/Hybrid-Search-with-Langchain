@@ -1,0 +1,7 @@
+langchain
+ipykernel
+pinecone
+langchain_community
+pinecone-client
+pinecone-text
+pinecone-notebooks
